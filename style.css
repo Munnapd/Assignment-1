@@ -1,0 +1,78 @@
+.nav_wh {
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  li:hover {
+    background-color: gray;
+    padding: 2px 2px;
+    border-radius: 5px;
+  }
+  
+  .img_hw {
+    width: 240px;
+    height: 360px;
+    border-radius: 10px;
+  }
+
+  .card-body {
+    width: 1500px;
+    height: 545.8px;
+  }
+  
+  .card_img {
+    width: 600px;
+    height: 300px;
+    padding: 0px 10px;
+  }
+  
+  .padd {
+    padding-left: 40px;
+  }
+  
+  .pro_img_wh {
+    width: 400px;
+    height: 500px;
+  }
+  
+  .skills_and_edu_btn {
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .text-align-center {
+    text-align: center;
+  }
+  
+  .card_body {
+    box-shadow: 4px 4px 8px gray;
+  }
+  
+  #inpt {
+    height: 200px;
+    width: 200px;
+  }
+  
+  #color_hr_in_contact {
+    color: white;
+    border: 2px solid white;
+  }
+  
+  .inpt_btn {
+    padding: 10px 90px;
+    border-radius: 5px;
+    background-color: #6c757d;
+    color: #00ffff;
+  }
+  
+  .pad_left {
+    padding-left: 25px;
+    color: #ffffff;
+  }
